@@ -1,0 +1,19 @@
+
+.navbar{
+    background-color: #DD2E39;
+    color: white;
+    height: 40px;
+}
+
+.nav-list{
+    padding-right: 2vw;
+}
+
+.nav-li{
+    list-style-type: none;
+    text-decoration: none;
+    display: block;
+    float: right;
+    padding-left: 2vw;
+
+}
